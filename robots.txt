@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-449l4f.salamcuanwin.xyz/sitemap.xml
